@@ -1,0 +1,39 @@
+
+.chia2{
+   float: right;
+    width: 50%;
+    height: 100%;
+  
+  
+}
+.chia{
+float: left;
+    width: 50%;
+    height: 700px;
+    
+  
+
+}
+
+#doan1{
+   
+color: red;
+text-decoration: underline;
+text-align: left;
+
+}
+#doan2{
+color: blue;
+text-decoration: underline;
+
+}
+#doan3{
+    color: green;
+    text-decoration: underline;
+
+}
+p{
+text-align: center;
+
+
+}
